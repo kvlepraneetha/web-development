@@ -1,0 +1,117 @@
+body{
+  background-color: white;
+}
+.maindiv{
+  background: skyblue;
+  margin: 12%;
+  border-radius: 3%;
+  display:flex;
+  box-shadow: 3px 3px 3px 3px;
+  background-image: url(12.jpg);
+}
+.subdiv1{
+  background: lightgreen;
+  margin: 3%;
+  border-radius: 4%;
+  box-shadow: 3px 3px 3px 3px;
+  text-align: center;
+  height: 55%;
+  position: fixed;
+  width: 23%;
+  margin-right: 23%;
+
+}
+img{
+  height: 20%;
+  width: 20%;
+}
+.subdiv2{
+  background: pink;
+  margin: 3%;
+  border-radius: 5%;
+  box-shadow: 3px 3px 3px 3px;
+  margin-left: 42%;
+  width: 150%;
+  padding: 2%
+
+}
+@media screen and (min-width:320px) and (max-width:420px) {
+body{
+  background: orange;
+}
+.maindiv{
+  background: white;
+  border-radius:3%;
+  display:inline-block;
+  margin: 0%;
+  width:100%;
+
+
+}
+.subdiv1{
+    background:skyblue;
+    margin:3%;
+    border-radius:3%;
+    text-align: center;
+    width: 95%;
+    height: 51%;
+    margin-left: 0%;
+    position: relative;
+
+
+  }
+.subdiv2{
+  background: grey;
+  margin: 3%;
+  border-radius: 5%;
+  box-shadow: 3px 3px 3px 3px;
+  width:100%;
+  margin-top: 10%;
+  margin-left: 0%;
+}
+img{
+  margin: 2%;
+  height: 25%;
+  width: 25%;
+}
+}
+@media screen and (min-width:450px) and (max-width:670px) {
+  body{
+    background:pink;
+  }
+  .maindiv{
+    background: aqua;
+    border-radius:3%;
+    display:flex;
+    margin: 0%;
+
+
+  }.subdiv1{
+      background:brown;
+      margin:0%;
+      border-radius:3%;
+      box-shadow: 4px 4px 4px 4px;
+      text-align: center;
+      width: 40%;
+      margin-left: 1%;
+      position: relative;
+
+
+  }
+  .subdiv2{
+    background: pink;
+    margin: 0%;
+    border-radius: 5%;
+    box-shadow: 3px 3px 3px 3px;
+    width:50%;
+      margin-left: 5%;
+      padding: 2%;
+
+  }
+
+  img{
+    margin: 2%;
+    height: 25%;
+    width: 25%;
+  }
+}

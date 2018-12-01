@@ -1,0 +1,38 @@
+{
+  "carrer":{
+    "info":"to work in an environment with gowthamipurnimasreeja"
+  },
+  "education":[
+    {
+      "s.no":"1",
+      "name of institute":"kv bowenpally",
+      "year of passing":"2014",
+      "percentage":"7.6"
+    },
+  {
+    "s.no":"2",
+    "name of institute":"narayana",
+    "year of passing":"2016",
+    "percentage":"90"
+
+  },
+  {
+    "s.no":"2",
+    "name of institute":"vignan",
+    "year of passing":"2020",
+    "percentage":"79"
+
+  }
+],"activities":[
+  {
+    "ciricular":"singing,playing"
+  }
+],
+"skills":[
+  {
+    "title":"programming languages",
+    "content":"c,java,c++,r,python,aj"
+  }
+],
+"languages":"telugu,english,hindi"
+}

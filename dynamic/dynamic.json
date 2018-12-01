@@ -1,0 +1,34 @@
+{
+  "career":{
+    "info":"to work in an environment with gowthamipurnimasreeja"
+  },
+  "education":[
+    {
+      "degree":"1",
+      "institution":"kv bowenpally",
+      "yop":"2014",
+      "percentage":"7.6"
+    },
+  {
+    "degree":"2",
+    "institution":"narayana",
+    "yop":"2016",
+    "percentage":"90"
+
+  },
+  {
+    "degree":"2",
+    "institution":"vignan",
+    "yop":"2020",
+    "percentage":"79"
+
+  }
+],
+"skills":[
+  {
+    "title":"programming languages",
+    "content":"c,java,c++,r,python,aj"
+  }
+],
+"languages":"telugu,english,hindi"
+}
